@@ -1,9 +1,9 @@
-import Model3D from "./components/Model3D";
+import { Geometry, Texture } from "./components/task2";
 
 function App() {
   return (
     <>
-      <Model3D />
+      <Geometry />
     </>
   );
 }
